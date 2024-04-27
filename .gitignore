@@ -1,0 +1,4 @@
+venv
+.deepeval-cache.json
+results
+.env

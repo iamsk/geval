@@ -1,0 +1,8 @@
+openai
+tqdm
+deepeval
+prettytable
+scipy
+dify_client
+jsonlines
+python-dotenv
